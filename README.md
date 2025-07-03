@@ -1,2 +1,2 @@
 # IT481M4
-sorting algos, timed and optimized
+sorting algos (bubble and quick sort), timed and optimized
